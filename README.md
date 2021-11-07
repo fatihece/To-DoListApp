@@ -1,4 +1,4 @@
-<h1 align="center">Task Tracker ✍</h1>
+<h1 align="center">My Todo App  ✍</h1>
 
 ### ✨ [Demo](https://juntodo-app.netlify.app/)
 
